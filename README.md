@@ -39,7 +39,7 @@
     .
     .
     <br />
-    <a href="https://colinmacon.com"><strong>Explore the walkthrough tutorial »</strong></a>
+    <a href="https://whoop-358917.web.app/"><strong>Explore the walk-through tutorial »</strong></a>
   </p>
 </div>
 
